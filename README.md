@@ -59,6 +59,7 @@ The dataset consists of 25 columns (including index/ID columns that are typicall
 * **`satisfaction`**: The overall passenger satisfaction level (`satisfied` vs. `neutral or dissatisfied`).
 
 ## **c. GitHub Repository Link**
+https://github.com/vinaykumarsutrave/ML_Airline_Passenger_Satisfaction/
 
 ## **d. Models used**
 Comparison Table with the evaluation metrics calculated for all the 5 
